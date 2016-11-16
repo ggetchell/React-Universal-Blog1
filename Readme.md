@@ -1,0 +1,1 @@
+This program is one created from the React with WebPack book, it is not fully completed yet still a work in progress as some funtions don't work yet. I will be continuing this over the new few weeks along with other projects i am working on.
